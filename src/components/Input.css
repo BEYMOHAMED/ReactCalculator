@@ -1,0 +1,14 @@
+.input{
+    display:flex;
+    height: 4em;
+    flex:1;
+    background-color: #3a4655;
+    outline: 1px solid #3a4655;
+    color:#fff;
+    justify-content: flex-end;
+    padding: 0.1em;
+    font-weight: bold;
+    font-size: 1.8em;
+    font-family: 'Black Ops One', cursive;
+    align-items: center;
+}
